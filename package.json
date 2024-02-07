@@ -1,7 +1,7 @@
 {
   "name": "valentine-invitation",
   "private": true,
-  "homepage": "https://AaronJay30.github.io/valentines-invitation"
+  "homepage": "https://AaronJay30.github.io/valentines-invitation",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

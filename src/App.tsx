@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import sound1 from "./assets/bgmusic.mp3";
 import sound2 from "./assets/yipi.mp3";
 import "./App.css";
